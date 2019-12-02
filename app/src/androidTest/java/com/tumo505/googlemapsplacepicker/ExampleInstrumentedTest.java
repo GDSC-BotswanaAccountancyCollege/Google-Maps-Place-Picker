@@ -1,4 +1,4 @@
-package com.example.googlemapsplacepicker;
+package com.tumo505.googlemapsplacepicker;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.googlemapsplacepicker", appContext.getPackageName());
+        assertEquals("com.tumo505.googlemapsplacepicker", appContext.getPackageName());
     }
 }

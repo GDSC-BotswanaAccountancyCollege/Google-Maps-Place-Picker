@@ -1,4 +1,4 @@
-package com.example.googlemapsplacepicker;
+package com.tumo505.googlemapsplacepicker;
 
 import org.junit.Test;
 
